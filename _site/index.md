@@ -17,10 +17,8 @@
 ”カッピングシート”というものを、
 より簡潔にわかりやすく作成、保存できるサービスを作りました。
 
-[![new-top](cupping-new2.png)](https://cupping-form.herokuapp.com/)
-[![new-bottom](cupping-new.png)](https://cupping-form.herokuapp.com/)
-[![index](cupping-index.png)](https://cupping-form.herokuapp.com/)
-
+[![cupping](cupping-new.png)](https://cupping-form.herokuapp.com/)
+[![iphone](cupping-new2.png)](https://cupping-form.herokuapp.com/)
 
 
 
